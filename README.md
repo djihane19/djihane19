@@ -20,7 +20,7 @@ and working on **new full-stack ideas** in parallel with career preparation and 
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,django,fastapi,python,php,laravel,postgres,mysql,mongodb,git,github,figma,vscode,aws,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind,nodejs,express,django,fastapi,python,postgres,mysql,mongodb,git,github,figma,vscode,aws,linux,postman" />
 </p>
 
 ---
