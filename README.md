@@ -19,9 +19,64 @@ and working on **new full-stack ideas** in parallel with career preparation and 
 
 ## 🔧 Tech Stack
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind,nodejs,express,django,fastapi,python,postgres,mysql,mongodb,git,github,figma,vscode,aws,linux,postman" />
+  <!-- Top -->
+  <img src="https://skillicons.dev/icons?i=js" />
+  
+  <!-- Second row -->
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  
+  <!-- Third row -->
+  <br/>
+  <img src="https://skillicons.dev/icons?i=next" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  
+  <!-- Fourth row -->
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  
+  <!-- Fifth row -->
+  <br/>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  
+  <!-- Sixth row -->
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
+
+
+
+
+
+
+
+
+**📊 GitHub Stats**
+
+
+
+<div style="display: flex; " align="center" g>
+  <img src="https://github-readme-stats.vercel.app/api?username=djihane19&show_icons=true&theme=tokyonight" width="400px"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djihane19&layout=compact&theme=tokyonight" width="300px" />
+</div>
+
 
 ---
 
@@ -35,17 +90,7 @@ and working on **new full-stack ideas** in parallel with career preparation and 
 | 🔍 **Fraud Detection on PaySim** | Built a fraud detection pipeline using LightGBM with EDA and AUC evaluation | Python, LightGBM, Seaborn |
 | 📝 **Blog Website** | Full-stack blog platform with dynamic content, CRUD operations, and user authentication | React.js, Express.js, MongoDB |
 
----
 
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=djihane19&show_icons=true&theme=tokyonight" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djihane19&layout=compact&theme=tokyonight" />
-
-</details>
-
----
 
 ## 🧠 Skills & Certifications
 
