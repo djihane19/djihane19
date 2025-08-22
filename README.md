@@ -73,8 +73,9 @@ and working on **new full-stack ideas** in parallel with career preparation and 
 
 
 <div style="display: flex; " align="center" g>
-  <img src="https://github-readme-stats.vercel.app/api?username=djihane19&show_icons=true&theme=tokyonight" width="400px"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=djihane19&theme=tokyonight" width="420px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djihane19&layout=compact&theme=tokyonight" width="300px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=djihane19&theme=tokyo-night&hide_border=true" width="75%"/>
 </div>
 
 
