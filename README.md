@@ -7,11 +7,10 @@
 
 ### 👋 Welcome to my GitHub profile!
 
-I'm **Djihane Torchane**, a Computer Science Engineer from ESI Algiers 🇩🇿  
-I love turning ideas into secure, scalable software — with a passion for **AI**, **UX**, and **Data**.
-
-Currently, I’m focusing on expanding my cloud and backend skills, refining my machine learning projects,  
-and working on **new full-stack ideas** in parallel with career preparation and learning.
+I'm a fresh Computer Science Engineer graduate  
+a Junior **Full-Stack Developer**.  
+Passionate about **AI** and software engineering, I’m currently focusing on  
+building projects that bridge **full-stack development** with the world of **artificial intelligence**.  
 
 </div>
 
