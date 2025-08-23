@@ -1,6 +1,6 @@
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Djihane+Torchane+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%7C+AI+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Djihane+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%7C+AI+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </p>
 
 <div align="center">
