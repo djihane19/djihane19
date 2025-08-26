@@ -45,6 +45,7 @@ building projects that bridge **full-stack development** with the world of **art
   <br/>
   <img src="https://skillicons.dev/icons?i=fastapi" />
   <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
@@ -58,6 +59,7 @@ building projects that bridge **full-stack development** with the world of **art
   <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://skillicons.dev/icons?i=linux" />
   <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 
