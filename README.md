@@ -16,8 +16,7 @@ building projects that bridge **full-stack development** with the world of **art
 
 ---
 
-## 🔧 Tech Stack
-
+ **🔧 Tech Stack**
 
 <p align="center">
   <!-- Top -->
@@ -82,7 +81,8 @@ building projects that bridge **full-stack development** with the world of **art
 
 ---
 
-## 🚀 Project Highlights
+<details>
+  <summary>📂 Project Highlights</summary>
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
@@ -92,9 +92,10 @@ building projects that bridge **full-stack development** with the world of **art
 | 🔍 **Fraud Detection on PaySim** | Built a fraud detection pipeline using LightGBM with EDA and AUC evaluation | Python, LightGBM, Seaborn |
 | 📝 **Blog Website** | Full-stack blog platform with dynamic content, CRUD operations, and user authentication | React.js, Express.js, MongoDB |
 
+</details>
 
-
-## 🧠 Skills & Certifications
+<details>
+  <summary>🧠 Skills & Certifications</summary>
 
 - 🧩 **Software Engineering**: Microservices, REST APIs, RBAC, JWT
 - 📊 **Data Science**: Pandas, NumPy, LightGBM, matplotlib
@@ -103,27 +104,25 @@ building projects that bridge **full-stack development** with the world of **art
 - 📚 **Certifications**:
   - Machine Learning (DeepLearning.AI – Coursera)
   - Meta Front-End Developer
+  - Associate Data Engineer Track (DataCamp)
+  - Git & Github Track (DataCamp)
+  - Python Fundumentals (DataCamp)
+  - Docker (DataCamp)
   - 1M Arab Coders Full-Stack Program
-
----
-
+</details>
 
 
-## 💬 Get in Touch
 
-📧 kd_torchane@esi.dz  
+<details>
+  <summary>💬 Get in Touch</summary>
+
+
 💼 [LinkedIn](https://www.linkedin.com/in/dji-hane-b92818276/)  
 🌍 Portfolio (Coming Soon)
 
----
+</details>
 
-## 🎯 Fun Facts
 
-- Designed a hospital website during the COVID-19 pandemic 🏥  
-- Passionate about ethical AI and real-world impact through tech ⚡  
-- Enjoy blending creative UX design with machine learning logic 🎨🤖
-
----
 
 <div align="center">
 
