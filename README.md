@@ -7,8 +7,8 @@
 
 ### 👋 Welcome to my GitHub profile!
 
-I'm a fresh Computer Science Engineer graduate  
-a Junior **Full-Stack Developer**.  
+I'm a Computer Science Engineer graduate  
+a  **Full-Stack Developer**.  
 Passionate about **AI** and software engineering, I’m currently focusing on  
 building projects that bridge **full-stack development** with the world of **artificial intelligence**.  
 
