@@ -8,9 +8,12 @@
 ### 👋 Welcome to my GitHub profile!
 
 I'm a Computer Science Engineer graduate  
-a  **Full-Stack Developer**.  
-Passionate about **AI** and software engineering, I’m currently focusing on  
-building projects that bridge **full-stack development** with the world of **artificial intelligence**.  
+and a **Full-Stack Developer** exploring the frontiers of **AI and Quantum Computing**.
+
+Passionate about building intelligent systems, I’m currently focusing on  
+projects that bridge **full-stack development**, **artificial intelligence**, and **quantum machine learning**.
+
+I’m especially interested in how **quantum algorithms** can enhance learning models, optimization, and next-generation computational systems.
 
 </div>
 
