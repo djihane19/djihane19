@@ -90,7 +90,7 @@ Currently exploring how **quantum algorithms** can revolutionize machine learnin
 </div>
 <div align="center">
 
-<img src="https://github-readme-stats-dc84.vercel.app/api?username=djihane19&show_icons=true&theme=radical&hide_border=true&title_color=F7B7D8&icon_color=9B7EDE&text_color=ffffff&bg_color=0D1117" width="48%" />
+<!-- <img src="https://github-readme-stats-dc84.vercel.app/api?username=&show_icons=true&theme=radical&hide_border=true&title_color=F7B7D8&icon_color=9B7EDE&text_color=ffffff&bg_color=0D1117" width="48%" /> -->
 
 <br/>
 
