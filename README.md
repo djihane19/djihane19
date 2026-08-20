@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/dji-hane-b92818276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:djihane.cs@example.com">
     <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#">
